@@ -1,5 +1,3 @@
-window.localStorage.setItem("lang", "en");
-
 window.addEventListener("load", () => {
   const form = document.querySelector("#new-task-form");
   const input = document.querySelector("#new-task-input");
